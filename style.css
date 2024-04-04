@@ -1,0 +1,14 @@
+body{
+    background-color:red;
+    color:white;
+    font-style:italic;
+    margin:20px;
+
+}
+
+
+p{
+    color:green;
+    background:gray;
+    font-style:brown;
+}
